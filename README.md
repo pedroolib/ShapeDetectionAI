@@ -150,11 +150,7 @@ img_bin[img_gray < thres] = 0
 4. **Low Accuracy**: Check image quality and threshold settings
 
 ### Data Requirements
-
-- **Minimum Images**: 1000+ per shape class recommended
-- **Image Format**: PNG files preferred
 - **Image Quality**: Clear, well-lit shapes on contrasting backgrounds
-- **Balanced Dataset**: Equal representation of all shape classes
 
 ## Educational Objectives
 
